@@ -12,8 +12,8 @@ namespace Datalayer
     public class Datalayer
     {
         #region Connection objects 
-        static readonly string strCon = "Data Source=vimalsoft.com;Initial Catalog=TaxCalculator;User ID=taxuser;Password=taxuser;connect timeout=0;Max Pool Size=20000";
-//        static readonly string strCon = "Data Source=COT-MID-L301655;Initial Catalog=TaxCalculator;User ID=taxuser;Password=taxuser;connect timeout=0;Max Pool Size=20000";
+        static readonly string strCon = "Data Source=.;Initial Catalog=TaxCalculator;User ID=taxuser;Password=taxuser;connect timeout=0;Max Pool Size=20000";
+//        static readonly string strCon = "Data Source=.;Initial Catalog=TaxCalculator;User ID=taxuser;Password=taxuser;connect timeout=0;Max Pool Size=20000";
 
         SqlConnection con; 
         SqlCommand cmd;
