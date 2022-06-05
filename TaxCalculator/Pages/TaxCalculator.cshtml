@@ -1,0 +1,53 @@
+﻿@page
+@model TaxCalculator.Pages.TaxCalculatorModel
+@{
+}
+<form method="post">
+ 
+   <input type="text" asp-for="Taxdata.postal_Code"   placeholder="Postal Code"  />
+ 
+   <input type="text" asp-for="Taxdata.Annaul_Salary" placeholder="Annual income"    /> 
+           
+   <button type="submit" value="Calculate">Calculate</button> 
+
+  <table class="table table-striped">
+            <tr>
+                <th>ID</th>
+                <th>Rate</th>
+                <th>Add Date</th>
+                <th>Postal Code</th>
+                 <th>Annual Income</th>
+                  <th>Taxed Amount</th>
+            </tr>
+          @foreach (var history in Model.ResultsHistory)
+        {
+            <tr>
+                <td>
+          @*          <input type="text" value="[@history.RESULTS_ID]" />*@
+                           <label >@history.RESULTS_ID</label>
+                </td>
+                <td>
+                @*    <input type="text" value="[@history.Rate]" />*@
+                             <label >@history.Rate</label>%
+                </td>
+                <td>
+        @*            <input type="text" value="[@history.ADD_DATE]" />*@
+                    <label >@history.ADD_DATE</label>
+                </td>
+                 <td>
+       @*             <input type="text" value="[@history.postal_Code]" />*@
+                     <label >@history.postal_Code</label>
+                </td>
+                 <td>
+                @*    <input type="text" value="[@history.Annaul_Salary]" />*@
+                    <label >@history.Annaul_Salary</label>
+                </td>
+                   <td>
+                @*    <input type="text" value="[@history.Annaul_Salary]" />*@
+                    <label >@history.Taxed_Amount</label>
+                </td>
+
+            </tr>
+        }
+    </table>
+</form>

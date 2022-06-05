@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxCalculator", "TaxCalculator\TaxCalculator.csproj", "{9AF91411-1A1C-41D7-9055-2A88AB246BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datalayer", "Datalayer\Datalayer.csproj", "{DFDDDEED-1C28-42A6-9B60-53B06CCE0FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxApi", "TaxApi\TaxApi.csproj", "{5EBB71AB-C5A6-4F72-ACA4-59FA02C65DE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF91411-1A1C-41D7-9055-2A88AB246BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF91411-1A1C-41D7-9055-2A88AB246BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF91411-1A1C-41D7-9055-2A88AB246BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF91411-1A1C-41D7-9055-2A88AB246BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFDDDEED-1C28-42A6-9B60-53B06CCE0FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDDDEED-1C28-42A6-9B60-53B06CCE0FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDDDEED-1C28-42A6-9B60-53B06CCE0FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDDDEED-1C28-42A6-9B60-53B06CCE0FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBB71AB-C5A6-4F72-ACA4-59FA02C65DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBB71AB-C5A6-4F72-ACA4-59FA02C65DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBB71AB-C5A6-4F72-ACA4-59FA02C65DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBB71AB-C5A6-4F72-ACA4-59FA02C65DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {128933BA-0ED7-4CD2-9F4C-7E8B7EE310C9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\TaxCalculator\obj\Release\net6.0\PubTmp\Out\TaxCalculator.exe
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\TaxCalculator\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\TaxCalculator\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\TaxCalculator\obj\Release\net6.0\PubTmp\Out\TaxCalculator.dll
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\TaxCalculator\obj\Release\net6.0\PubTmp\Out\TaxCalculator.deps.json
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\TaxCalculator\obj\Release\net6.0\PubTmp\Out\TaxCalculator.runtimeconfig.json
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\TaxCalculator\obj\Release\net6.0\PubTmp\Out\TaxCalculator.pdb
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\TaxCalculator\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll

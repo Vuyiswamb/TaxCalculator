@@ -1,0 +1,6 @@
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Datalayer\bin\Release\Datalayer.dll
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Datalayer\bin\Release\Datalayer.pdb
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Datalayer\obj\Release\Datalayer.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Datalayer\obj\Release\Datalayer.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Datalayer\obj\Release\Datalayer.dll
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Datalayer\obj\Release\Datalayer.pdb

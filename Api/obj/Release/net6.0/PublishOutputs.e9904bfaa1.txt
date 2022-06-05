@@ -1,0 +1,14 @@
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\Api.exe
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\Api.dll
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\Api.deps.json
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\Api.runtimeconfig.json
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\Api.pdb
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\Datalayer.dll
+D:\DEVELOPMENT\TaxCalculator\TaxCalculator\Api\obj\Release\net6.0\PubTmp\Out\Datalayer.pdb
